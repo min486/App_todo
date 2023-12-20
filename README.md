@@ -29,7 +29,7 @@ Android 개인 프로젝트
 
 |                 SNS 로그인 (카카오, 네이버)                  |                      할 일 생성 / 체크                       |                      할 일 수정 / 삭제                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/todo2.gif" alt="todo2" align="center" width="100%" /> | <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> |
+| <img src="./README.assets/todo.gif" alt="todo" align="center" width="100%" /> | <img src="./README.assets/todo2.gif" alt="todo2" align="center" width="100%" /> | <img src="./README.assets/todo3.gif" alt="todo3" align="center" width="100%" /> |
 
 
 
