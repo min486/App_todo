@@ -27,11 +27,9 @@ Android 개인 프로젝트
 
 ## 주요 기능
 
-|                 SNS 로그인 (카카오, 네이버)                  |                             생성                             |                             수정                             |                             삭제                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/easy2.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/easy3.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/easy3.gif" alt="collection" align="center" width="100%" /> |
-
-
+|                 SNS 로그인 (카카오, 네이버)                  |                      할 일 생성 / 체크                       |                      할 일 수정 / 삭제                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> | <img src="./README.assets/todo.gif" alt="collection" align="center" width="100%" /> |
 
 
 
