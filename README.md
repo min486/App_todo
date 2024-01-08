@@ -8,12 +8,13 @@ Android 개인 프로젝트
 
 ### 🛠️ 사용 기술
 
+- XML
+
 - [MVVM](https://github.com/min486/Android/tree/master/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/MVVM_%ED%8C%A8%ED%84%B4)
 - [Hilt](https://github.com/min486/Android/tree/master/Android/%EC%9D%98%EC%A1%B4%EC%84%B1%EC%A3%BC%EC%9E%85-Hilt)
 - [Coroutine](https://github.com/min486/Android/tree/master/Kotlin/%EC%BD%94%EB%A3%A8%ED%8B%B4)
 - [Flow](https://github.com/min486/Android/tree/master/Kotlin/Flow)
 - [Room](https://github.com/min486/Android/tree/master/Android/Room)
-- SNS 로그인
 
 ### 🖥️ 개발 환경
 
